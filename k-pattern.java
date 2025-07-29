@@ -1,3 +1,14 @@
+///https://www.geeksforgeeks.org/java/java-pattern-programs/
+//Pattern 16
+/* 
+* * * * 
+* * * 
+* * 
+* 
+* * 
+* * * 
+* * * * 
+*/
 import java.util.*;
 public class Main{
     public static void main(String[] args){
