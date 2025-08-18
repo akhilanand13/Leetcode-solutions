@@ -1,7 +1,6 @@
 //https://leetcode.com/problems/two-sum/
 //Time Complexity: O(n)
 //Space Complexity: O(n)
-
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         Map<Integer, Integer> hashmap = new HashMap<Integer, Integer>();
@@ -14,4 +13,5 @@ class Solution {
         }
         throw new IllegalArgumentException("No two sum solution");
     }
+
 }
