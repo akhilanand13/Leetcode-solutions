@@ -1,7 +1,6 @@
 //https://leetcode.com/problems/reorder-list/
 //Time Complexity: O(n)
 //Space Complexity: O(1)
-
 class Solution {
     public void reorderList(ListNode head) {
         if (head == null || head.next == null) return; 
@@ -31,4 +30,5 @@ class Solution {
         }
         return prev;
     }
+
 }
