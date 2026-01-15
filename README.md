@@ -1,5 +1,5 @@
 # Leetcode-solutions
-Welcome to my personal collection of **LeetCode problem solutions**, organized by difficulty level and topic.
+Welcome to my personal collection of **LeetCode problem solutions**, organized by difficulty level and topic. 
 
 I primarily solve problems using **Java**, which not only helps in writing clean and efficient code but also strengthens my understanding of **Object-Oriented Programming (OOP)** concepts such as encapsulation, inheritance, and polymorphism through real-world problem-solving.
 
