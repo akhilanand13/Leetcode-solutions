@@ -8,7 +8,7 @@ I also use **Python** occasionally, especially for quick prototyping or explorin
 --- 
 
 ## 🧠 Why Java? 
-
+ 
 - Java’s **strong OOP foundation** makes it ideal for building scalable and modular solutions.
 - Solving problems in Java helps improve **algorithmic thinking** while reinforcing **software design principles**.
 - Writing in Java encourages **clear structure** and **type safety**, both crucial for technical interviews and professional development.
